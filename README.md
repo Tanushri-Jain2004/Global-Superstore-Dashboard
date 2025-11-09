@@ -1,4 +1,6 @@
 🌍 **Global Superstore Dashboard**
+
+
 📘 **Overview**
 
 The Global Superstore Dashboard is an interactive Power BI project designed to analyze and visualize sales performance across different regions, categories, and customer segments.
